@@ -49,4 +49,7 @@ setx GOOGLE_API_KEY "발급받은 API KEY"
 
 # macOS and Linux
 echo 'export GOOGLE_API_KEY='"발급받은 API KEY"' >> ~/.bashrc
+
+# venv 가상환경 (따옴표 없이 작성할 필요)
+set GOOGLE_API_KEY=발급받은_API_KEY
 ```
